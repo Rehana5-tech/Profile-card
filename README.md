@@ -13,7 +13,8 @@ A responsive and stylish profile card created using **HTML** and **CSS**. This c
 
 ## 📸 Preview
 
-(./[Screenshot 2025-06-28 155612.png](https://github.com/Rehana5-tech/Profile-card/blob/f4d8def0a2ef4901a6e8b7f4379d5e1a5ac2831e/Screenshot%202025-06-28%20155612.png))
+![Profile Card Screenshot](https://github.com/Rehana5-tech/Profile-card/raw/f4d8def0a2ef4901a6e8b7f4379d5e1a5ac2831e/Screenshot%202025-06-28%20155612.png)
+
 
 ## 🛠️ Built With
 
