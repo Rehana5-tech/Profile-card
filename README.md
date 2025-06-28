@@ -13,7 +13,7 @@ A responsive and stylish profile card created using **HTML** and **CSS**. This c
 
 ## 📸 Preview
 
-![Profile Card Screenshot](./Screenshot 2025-06-28 155612.png)
+(./Screenshot 2025-06-28 155612.png)
 
 ## 🛠️ Built With
 
